@@ -1,0 +1,37 @@
+.wrapp{
+
+	margin :10px auto;
+	width : 960px;
+	background-color : white;
+}
+.head{
+	color : red;
+}
+.banner{
+	display : block;
+	height : 28px;
+	background-color : #cccccc;
+	width: 100%;
+}
+.banner2{
+
+	margin-top : 15px;
+	margin-bottom : 15px;
+	display : block;
+	height : 28px;
+	background-color : white;
+	width: 100%;
+}
+.form1{
+	float : left;
+}
+.form2{
+	float : right;
+}
+.pana{
+	float : right;
+}
+.page{
+	float : left;
+	font-size : 14x;
+}

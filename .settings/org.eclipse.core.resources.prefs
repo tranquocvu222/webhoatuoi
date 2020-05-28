@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/admin.jsp=UTF-8
+encoding//WebContent/view/contact.jsp=UTF-8
+encoding//WebContent/view/createFlower.jsp=UTF-8
+encoding//WebContent/view/createUser.jsp=UTF-8
+encoding//WebContent/view/createUserByAdmin.jsp=UTF-8
+encoding//WebContent/view/editUser.jsp=UTF-8
+encoding//WebContent/view/userManagement.jsp=UTF-8
+encoding//src/ex/control/CreateUserController.java=UTF-8
+encoding//src/ex/service/impl/UserServiceImpl.java=UTF-8
